@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHoonKim-KR&show_icons=true&theme=radical)
 
+블로그 링크
+<img src="https://img.shields.io/badge/Velog-#20C997?style=for-the-badge&logo=Velog&logoColor=white">
+
 
