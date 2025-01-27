@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHoonKim-KR&show_icons=true&theme=radical)
-
+## 포트폴리오
+<a href = "https://funky-gouda-17b.notion.site/16447482dbdc80ca9f48e56e049cd6a8"></a>
 ### 기록 
 <a href = "https://velog.io/@kjh1232100"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href = "https://funky-gouda-17b.notion.site/KimJungHoon-d513f1054a594dc18dc8869cbed3d405"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"></a>
