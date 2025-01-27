@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHoonKim-KR&show_icons=true&theme=radical)
 
-## 포트폴리오
+## ★포트폴리오★
 https://funky-gouda-17b.notion.site/16447482dbdc80ca9f48e56e049cd6a8
 
 ### 기록 
