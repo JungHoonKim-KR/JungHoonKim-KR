@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## ★포트폴리오★
 https://funky-gouda-17b.notion.site/16447482dbdc80ca9f48e56e049cd6a8
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh1232100)](https://solved.ac/kjh1232100/)
+
 ### 기록 
 <a href = "https://velog.io/@kjh1232100"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href = "https://funky-gouda-17b.notion.site/KimJungHoon-d513f1054a594dc18dc8869cbed3d405"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"></a>
