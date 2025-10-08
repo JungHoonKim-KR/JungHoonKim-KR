@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ### 기록 
 <a href = "https://velog.io/@kjh1232100"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-<a href = "https://funky-gouda-17b.notion.site/KimJungHoon-d513f1054a594dc18dc8869cbed3d405"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"></a>
 
 ### 기술 스택
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
