@@ -26,12 +26,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-# 프로젝트 목록
-
-## Project Matching
-- **설명**: 소통을 통한 프로젝트 구인 구직 사이트
-- **GitHub 링크**: [저장소](https://github.com/JungHoonKim-KR/Web_Procject.git)
-
-## LoLstagram
-- **설명**: 내 플레이를 자랑하고 친구들과 랭크를 경쟁하는 사이트
-- **GitHub 링크**: [저장소](https://github.com/JungHoonKim-KR/React-Springboot.git)
